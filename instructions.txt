@@ -1,0 +1,5 @@
+Quick instructions:
+- Update DBConnection.java with your DB user/password.
+- Put mysql-connector-java.jar into WEB-INF/lib.
+- Import as Dynamic Web Project.
+- Deploy on Tomcat and access /AttendanceSystem/

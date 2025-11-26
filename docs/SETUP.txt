@@ -1,0 +1,5 @@
+Setup notes:
+- Put mysql-connector-java-X.jar and zxing-core/zxing-javase jars into WEB-INF/lib.
+- Update DBConnection.java with your DB credentials.
+- Run sql/attendance_schema.sql to create DB and tables.
+- Import project into Eclipse as Dynamic Web Project or use Maven packaging (not included).
